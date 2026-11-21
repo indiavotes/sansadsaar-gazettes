@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-07-11.264593",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-07-11",
+      "ugid": "264593",
+      "title": "Extraordinary Gazette of India, 2025-07-11",
+      "ministry": "Ministry of Road Transport and Highways",
+      "department": "Deptt. of Road Transport and Highways",
+      "office": "",
+      "subject": "Publication of notification under Section 3D",
+      "gazette_id": "CG-DL-E-12072025-264593",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/264593.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264593/264593.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-07-11.264593",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-07-11/264593.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-07-11.264593/264593_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-07-11.264585",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-03-18/261683.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-18.261683/261683_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-03-18.261682",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-03-18",
-      "ugid": "261682",
-      "title": "Extraordinary Gazette of India, 2025-03-18",
-      "ministry": "Ministry of Railways",
-      "department": "Construction Department",
-      "office": "Western Railway",
-      "subject": "20A of the Railways Act, 1989(24 of 1989) (here in after referred in as the said Act), the Central Government after being satisfied that for the public purpose, this land of Village Nadatod Tehsil Petlawad District  Jhabua,",
-      "gazette_id": "CG-MH-E-18032025-261682",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261682.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-18.261682/261682.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-03-18.261682",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-03-18/261682.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-18.261682/261682_djvu.txt"
     }
   ],
   "count": 2500,

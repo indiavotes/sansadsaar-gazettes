@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.w.2026-03-14.270945",
+      "category": "weekly",
+      "type_letter": "w",
+      "issue_date": "2026-03-14",
+      "ugid": "270945",
+      "title": "Weekly Gazette of India, 2026-03-14",
+      "ministry": "This Gazette may contains Multiple Ministry / Organization",
+      "department": "This Gazette may contains Multiple Departments",
+      "office": "This Gazette may contains Multiple Offices",
+      "subject": "This Gazette may contains Multiple Subjects",
+      "gazette_id": "CG-DL-W-14032026-270945",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/270945.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.w.2026-03-14.270945/270945.pdf",
+      "ia_identifier": "in.gazette.central.w.2026-03-14.270945",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/w/2026-03-14/270945.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-03-14.270945/270945_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.w.2026-03-14.270944",
       "category": "weekly",
       "type_letter": "w",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2025-12-05/268314.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-05.268314/268314_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2025-12-05.268311",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2025-12-05",
-      "ugid": "268311",
-      "title": "Extrordinary Gazette of India, 2025-12-05",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-08122025-268311",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/268311.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-12-05.268311/268311.pdf",
-      "ia_identifier": "in.gazette.central.e.2025-12-05.268311",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2025-12-05/268311.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-12-05.268311/268311_djvu.txt"
     }
   ],
   "count": 2500,

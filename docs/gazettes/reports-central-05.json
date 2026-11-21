@@ -1,6 +1,30 @@
 {
   "records": [
     {
+      "identifier": "in.gazette.central.e.2025-03-18.261682",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2025-03-18",
+      "ugid": "261682",
+      "title": "Extraordinary Gazette of India, 2025-03-18",
+      "ministry": "Ministry of Railways",
+      "department": "Construction Department",
+      "office": "Western Railway",
+      "subject": "20A of the Railways Act, 1989(24 of 1989) (here in after referred in as the said Act), the Central Government after being satisfied that for the public purpose, this land of Village Nadatod Tehsil Petlawad District  Jhabua,",
+      "gazette_id": "CG-MH-E-18032025-261682",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2025/261682.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2025-03-18.261682/261682.pdf",
+      "ia_identifier": "in.gazette.central.e.2025-03-18.261682",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
+      "mirror_path": "pdf/central/e/2025-03-18/261682.pdf",
+      "topics": [],
+      "djvu_url": "https://archive.org/download/in.gazette.central.e.2025-03-18.261682/261682_djvu.txt"
+    },
+    {
       "identifier": "in.gazette.central.e.2025-03-17.261697",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59975,30 +59999,6 @@
       "mirror_path": "pdf/central/e/2024-11-27/259015.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-27.259015/259015_djvu.txt"
-    },
-    {
-      "identifier": "in.gazette.central.e.2024-11-27.259014",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2024-11-27",
-      "ugid": "259014",
-      "title": "Extraordinary Gazette of India, 2024-11-27",
-      "ministry": "Ministry of Commerce and Industry",
-      "department": "DIRECTORATE GENERAL OF TRADE REMEDIES",
-      "office": "",
-      "subject": "SSR CVD imports of Saccharin exported from China PR",
-      "gazette_id": "CG-DL-E-29112024-259014",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2024/259014.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2024-11-27.259014/259014.pdf",
-      "ia_identifier": "in.gazette.central.e.2024-11-27.259014",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2023-2025",
-      "mirror_path": "pdf/central/e/2024-11-27/259014.pdf",
-      "topics": [],
-      "djvu_url": "https://archive.org/download/in.gazette.central.e.2024-11-27.259014/259014_djvu.txt"
     }
   ],
   "count": 2500,

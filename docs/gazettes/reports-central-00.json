@@ -3657,6 +3657,29 @@
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-11-07.277771/277771_djvu.txt"
     },
     {
+      "identifier": "in.gazette.central.e.2026-11-06.278108",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-06",
+      "ugid": "278108",
+      "title": "Extraordinary Gazette of India, 2026-11-06",
+      "ministry": "Ministry of Railways",
+      "department": "Construction organization",
+      "office": "South Coast Railway",
+      "subject": "Construction of Road Over Bridge in Lieu of Level Crossing LC No.16 at Km 15/20_22 between Nidamanuru and Uppaluru Stations in Velpuru village of Kankipadu Mandal in Krishna District in the State of Andhra Pradesh",
+      "gazette_id": "CG-AP-E-21112026-278108",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278108.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-06.278108/278108.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-06.278108",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-06/278108.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-06.278010",
       "category": "extraordinary",
       "type_letter": "e",
@@ -59153,29 +59176,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-22.273708",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-22/273708.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273707",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273707",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Health and Family Welfare",
-      "department": "Not Applicable",
-      "office": "",
-      "subject": "Notification of Jan Vishwas in respect of Clinical Establishments Act 2010",
-      "gazette_id": "CG-DL-E-22062026-273707",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273707.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273707/273707.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273707",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273707.pdf",
       "topics": []
     }
   ],
