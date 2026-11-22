@@ -65,7 +65,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           GH_REPO: ${{ github.repository }}
-          IS_FALLBACK: ${{ github.event_name == 'schedule' && github.event.schedule == '1 8 * * *' }}
+          IS_FALLBACK: ${{ github.event_name == 'schedule' && github.event.schedule == '8 8 * * *' }}
         run: |
           if [ "$IS_FALLBACK" != "true" ]; then echo "run=true" >> "$GITHUB_OUTPUT"; exit 0; fi
           start=$(date -u -d "$(TZ=Asia/Kolkata date +%F) 00:00 +0530" +%Y-%m-%dT%H:%M:%SZ)
