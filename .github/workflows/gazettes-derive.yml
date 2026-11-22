@@ -18,8 +18,13 @@ permissions:
   contents: write
 
 concurrency:
-  group: gazettes-derive
-  cancel-in-progress: true
+  # Same group as gazettes.yml (set 22 Nov 2026): both push docs/gazettes/meta.json,
+  # and separate groups let a derive push race a scrape push (rebase conflict).
+  # cancel-in-progress stays false so a derive never cancels a running scrape.
+  # GitHub keeps one pending run per group, so during a deep-seed chain a queued
+  # derive may be replaced; the next derive rebuilds from main and catches up.
+  group: gazettes
+  cancel-in-progress: false
 
 jobs:
   derive:
