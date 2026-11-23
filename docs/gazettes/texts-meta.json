@@ -3,14 +3,14 @@
   "fallback_threshold_bytes": 10000000,
   "r2_origin": null,
   "totals": {
-    "records_with_text": 31569,
+    "records_with_text": 31587,
     "shards": 445,
     "r2_fallback": 0,
-    "total_text_bytes": 0,
+    "total_text_bytes": 1180825,
     "missing_files": 0,
     "skipped_oversize_no_r2": 0,
     "from_existing_shards": 31569,
-    "txt_files_removed": 0
+    "txt_files_removed": 18
   },
   "shards": [
     {
@@ -1670,8 +1670,8 @@
     },
     {
       "file": "texts-331.json",
-      "count": 73,
-      "bytes": 2399077
+      "count": 89,
+      "bytes": 3097985
     },
     {
       "file": "texts-332.json",
@@ -2235,8 +2235,8 @@
     },
     {
       "file": "texts-444.json",
-      "count": 7,
-      "bytes": 3807044
+      "count": 9,
+      "bytes": 4320860
     }
   ],
   "record_to_shard": {
@@ -32207,6 +32207,15 @@
     "central|central_e_20261106_277808": 331,
     "central|central_e_20261106_277809": 331,
     "central|central_e_20261106_277810": 331,
+    "central|central_e_20261106_277908": 331,
+    "central|central_e_20261106_277910": 331,
+    "central|central_e_20261106_277911": 331,
+    "central|central_e_20261106_277912": 331,
+    "central|central_e_20261106_277914": 331,
+    "central|central_e_20261106_277916": 331,
+    "central|central_e_20261106_277917": 331,
+    "central|central_e_20261106_277918": 331,
+    "central|central_e_20261106_277919": 331,
     "central|central_e_20261109_277801": 331,
     "central|central_e_20261109_277802": 331,
     "central|central_e_20261109_277803": 331,
@@ -32216,6 +32225,8 @@
     "central|central_e_20261109_277816": 331,
     "central|central_e_20261109_277826": 331,
     "central|central_e_20261109_277827": 331,
+    "central|central_e_20261109_277909": 331,
+    "central|central_e_20261109_277923": 331,
     "central|central_e_20261110_277815": 331,
     "central|central_e_20261110_277817": 331,
     "central|central_e_20261110_277818": 331,
@@ -32224,6 +32235,11 @@
     "central|central_e_20261110_277821": 331,
     "central|central_e_20261110_277822": 331,
     "central|central_e_20261110_277823": 331,
+    "central|central_e_20261112_277924": 331,
+    "central|central_e_20261113_277915": 331,
+    "central|central_e_20261113_277920": 331,
+    "central|central_e_20261113_277921": 331,
+    "central|central_e_20261113_277922": 331,
     "central|central_w_20221001_239261": 331,
     "central|central_w_20221001_239262": 331,
     "central|central_w_20221001_239264": 331,
@@ -33804,6 +33820,8 @@
     "central|central_w_20261031_277554": 443,
     "central|central_w_20261031_277560": 444,
     "central|central_w_20261031_277635": 444,
+    "central|central_w_20261031_277932": 444,
+    "central|central_w_20261031_277933": 444,
     "central|central_w_20261107_277771": 444,
     "central|central_w_20261107_277772": 444,
     "central|central_w_20261107_277773": 444,
