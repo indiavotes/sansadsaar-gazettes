@@ -1519,6 +1519,29 @@
       "topics": []
     },
     {
+      "identifier": "in.gazette.central.e.2026-11-18.278130",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-18",
+      "ugid": "278130",
+      "title": "Extraordinary Gazette of India, 2026-11-18",
+      "ministry": "Ministry of Commerce and Industry",
+      "department": "Directorate General of  Foreign Trade",
+      "office": "",
+      "subject": "Inviting TRQ Applications under India United Kingdom Comprehensive Economic and Trade Agreement CETA for Calendar Year CY 2027 reg",
+      "gazette_id": "CG-DL-E-23112026-278130",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278130.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-18.278130/278130.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-18.278130",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-18/278130.pdf",
+      "topics": []
+    },
+    {
       "identifier": "in.gazette.central.e.2026-11-18.278126",
       "category": "extraordinary",
       "type_letter": "e",
@@ -1884,6 +1907,52 @@
       "ia_identifier": "in.gazette.central.e.2026-11-18.278027",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-11-18/278027.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-17.278139",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-17",
+      "ugid": "278139",
+      "title": "Extraordinary Gazette of India, 2026-11-17",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Amendments to Indian standards",
+      "gazette_id": "CG-DL-E-23112026-278139",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278139.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-17.278139/278139.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-17.278139",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-17/278139.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-17.278138",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-17",
+      "ugid": "278138",
+      "title": "Extraordinary Gazette of India, 2026-11-17",
+      "ministry": "Bureau of Indian Standards",
+      "department": "Not Applicable",
+      "office": "",
+      "subject": "In pursuance of Sub rule (1) of Rule (15) of the Bureau of Indian Standards Rules, 2018, the Bureau of Indian Standards hereby notifies that Indian standards",
+      "gazette_id": "CG-DL-E-23112026-278138",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278138.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-17.278138/278138.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-17.278138",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-17/278138.pdf",
       "topics": []
     },
     {
@@ -4242,6 +4311,52 @@
       "mirror_path": "pdf/central/w/2026-11-07/277771.pdf",
       "topics": [],
       "djvu_url": "https://archive.org/download/in.gazette.central.w.2026-11-07.277771/277771_djvu.txt"
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-06.278132",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-06",
+      "ugid": "278132",
+      "title": "Extraordinary Gazette of India, 2026-11-06",
+      "ministry": "Ministry of Railways",
+      "department": "Construction organization",
+      "office": "South Coast Railway",
+      "subject": "Construction of Road Over Bridge in Lieu of Level Crossing (LC) No.436 at Km651/06_08 in between Gollaprolu and Ravikampadu stations at Chebrolu Village of Gollaprolu Mandal in Kakinada District, in the state of Andhra Pradesh",
+      "gazette_id": "CG-AP-E-23112026-278132",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278132.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-06.278132/278132.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-06.278132",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-06/278132.pdf",
+      "topics": []
+    },
+    {
+      "identifier": "in.gazette.central.e.2026-11-06.278131",
+      "category": "extraordinary",
+      "type_letter": "e",
+      "issue_date": "2026-11-06",
+      "ugid": "278131",
+      "title": "Extraordinary Gazette of India, 2026-11-06",
+      "ministry": "Ministry of Railways",
+      "department": "Construction organization",
+      "office": "South Coast Railway",
+      "subject": "Construction of Road Over Bridge in Lieu of Level Crossing (LC) No.422 at Km.619/20_22 between Medapadu station yard in G.Medapadu Village of Samalkot Mandal in Kakinada District, in the state of Andhra Pradesh",
+      "gazette_id": "CG-AP-E-23112026-278131",
+      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/278131.pdf",
+      "languages": [
+        "eng",
+        "hin"
+      ],
+      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-11-06.278131/278131.pdf",
+      "ia_identifier": "in.gazette.central.e.2026-11-06.278131",
+      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
+      "mirror_path": "pdf/central/e/2026-11-06/278131.pdf",
+      "topics": []
     },
     {
       "identifier": "in.gazette.central.e.2026-11-06.278108",
@@ -59084,121 +59199,6 @@
       "ia_identifier": "in.gazette.central.e.2026-06-22.273777",
       "mirror_repo": "sansadsaar-gazettes-mirror-2026",
       "mirror_path": "pdf/central/e/2026-06-22/273777.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273776",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273776",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-24062026-273776",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273776.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273776/273776.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273776",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273776.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273775",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273775",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-24062026-273775",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273775.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273775/273775.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273775",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273775.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273773",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273773",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Pand M file State of the Delhi",
-      "gazette_id": "CG-DL-E-24062026-273773",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273773.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273773/273773.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273773",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273773.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273767",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273767",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3D",
-      "gazette_id": "CG-DL-E-24062026-273767",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273767.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273767/273767.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273767",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273767.pdf",
-      "topics": []
-    },
-    {
-      "identifier": "in.gazette.central.e.2026-06-22.273765",
-      "category": "extraordinary",
-      "type_letter": "e",
-      "issue_date": "2026-06-22",
-      "ugid": "273765",
-      "title": "Extrordinary Gazette of India, 2026-06-22",
-      "ministry": "Ministry of Road Transport and Highways",
-      "department": "Deptt. of Road Transport and Highways",
-      "office": "",
-      "subject": "Publication of notification under Section 3A",
-      "gazette_id": "CG-DL-E-23062026-273765",
-      "gazette_source_url": "https://egazette.gov.in/WriteReadData/2026/273765.pdf",
-      "languages": [
-        "eng",
-        "hin"
-      ],
-      "pdf_url": "https://archive.org/download/in.gazette.central.e.2026-06-22.273765/273765.pdf",
-      "ia_identifier": "in.gazette.central.e.2026-06-22.273765",
-      "mirror_repo": "sansadsaar-gazettes-mirror-2026",
-      "mirror_path": "pdf/central/e/2026-06-22/273765.pdf",
       "topics": []
     }
   ],
